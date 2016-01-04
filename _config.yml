@@ -1,0 +1,28 @@
+name: cathywang
+favicon: null
+layout_spectrum: 0.7727675216738135
+typography_spectrum: 0.8959162342362106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5
+  lightness: 0.2303108675405383
+  saturation: 0.31047878065146506
+  rhythmicContrast: 0.29314200719818473
+purpose: []
